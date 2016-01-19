@@ -1,2 +1,2 @@
-# be-application-test
-A sample application for BioExcel 
+# be-volume-test
+A sample OpenStack volume for the TSI Portal 
