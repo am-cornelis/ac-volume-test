@@ -10,7 +10,7 @@ provider "openstack" {
 
 
 resource "openstack_blockstorage_volume_v1" "volume_1" {
-  name = "be-test-volume"
-  description = "first test volume"
+  name = "ac-test-volume"
+  description = "second test volume"
   size = 3
 }
